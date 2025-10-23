@@ -1,0 +1,9 @@
+pub mod authentication;
+pub mod ec_recover;
+pub mod execute_sessioned_instructions;
+pub mod initialization;
+pub mod instruction_and_payload_generation;
+pub mod parser;
+pub mod refresh_session_key;
+pub mod secp256r1_instruction;
+pub mod svm;
