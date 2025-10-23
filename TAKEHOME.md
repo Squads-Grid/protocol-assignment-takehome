@@ -132,10 +132,17 @@ We'll evaluate your submission based on correctness of the implementation, code 
 
 ## Submission
 
-Please submit:
+Before submission please do the following:
+1. Fork the repository
+2. Detach the fork from the fork network
+3. Make the repository private
+4. Invite @0xRigel-squads to the now private repository
+
+In the form of a PR into main, please submit:
 1. Your implementation (source code at whatever completion state)
 2. `NOTES.md` with your documentation and reflections
 3. Test output (even if tests don't fully pass)
+
 
 **Remember:** It's perfectly acceptable to submit an incomplete implementation after 4-6 hours. We're interested in your thought process, problem-solving approach, and ability to work with existing codebases as much as the final result.
 
